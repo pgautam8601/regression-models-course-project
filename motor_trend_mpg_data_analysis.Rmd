@@ -97,6 +97,7 @@ concludes that there are no outliers
 sum((abs(dfbetas(stepFit)))>1)
 ```
 
+
 #### Conclusion
 There is a difference in MPG based on transmission type. A manual transmission
 will have a slight MPG boost. However, it seems that weight, horsepower, & 
